@@ -1,1 +1,5 @@
 Flask==3.0.3
+jsonschema==4.19.0
+jsonschema-specifications==2023.7.1
+requests==2.31.0
+beautifulsoup4==4.12.3
